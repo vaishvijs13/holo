@@ -1,1 +1,1 @@
-ar + computer vision
+An augmented reality app that uses computer vision and real-time object detection to provide interactive guidance for hands-on tasks. Built with YOLOv8 for object detection and ARKit (iOS) for anchoring AI-generated labels, animations, and step-by-step instructions in real-world scenes.
